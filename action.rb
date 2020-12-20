@@ -100,8 +100,4 @@ if (PASSWORD == "password") && (LOGINNAME == "username")
   exit
 end
 
-puts params
-puts token
-
-
 create_report(params, token)
